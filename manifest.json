@@ -1,11 +1,11 @@
 {
-    "name": "covid19app",
-    "short_name": "covid19app",
-    "start_url": ".",
+    "name": "COVID 19 India | Jinesh Soni",
+    "short_name": "COVID 19 India",
+    "start_url": "",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "A COVID19 India dashboard, created by Jinesh soni @ Thinkwik India",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
