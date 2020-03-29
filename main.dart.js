@@ -23637,7 +23637,7 @@ this.bF()},
 R:function(a){var t,s,r,q,p,o,n=this,m=null,l=X.Wr(m,C.kP),k=E.V7(C.C.i(0,800),new L.nF(C.tK,m),!1,new F.P6(n),C.j),j=C.oj.i(0,100)
 j=M.n4(m,new T.eG(C.tw,new T.ic(C.bf,m,m,L.jj("Banner",A.cV(m,m,C.oj.i(0,600),m,m,m,m,m,m,m,m,14,m,m,m,m,!0,m,m,m,m,m,m),m),m),m),j,m,m,m,m,m,m)
 t=u.E
-s=T.Et(H.b([new T.cv(m,10,m,m),L.jj(n.cx,A.cV(m,m,C.oi.i(0,500),m,m,m,m,m,m,m,m,12,m,C.T,m,m,!0,1,m,m,m,m,m),C.fo),new T.cv(m,10,m,m),L.jj("INDIA COVID-19 TRACKER",A.cV(m,m,C.C.i(0,800),m,m,m,m,m,m,m,m,20,m,C.T,m,m,!0,1,m,m,m,m,m),m),new T.cv(m,10,m,m),L.jj("A THINKWIK INIDA INITATIVE",A.cV(m,m,C.C.i(0,600),m,m,m,m,m,m,m,m,10,m,C.T,m,m,!0,1,m,m,m,m,m),m),new T.cv(m,10,m,m)],t))
+s=T.Et(H.b([new T.cv(m,10,m,m),L.jj(n.cx,A.cV(m,m,C.oi.i(0,500),m,m,m,m,m,m,m,m,12,m,C.T,m,m,!0,1,m,m,m,m,m),C.fo),new T.cv(m,10,m,m),L.jj("INDIA COVID-19 TRACKER",A.cV(m,m,C.C.i(0,800),m,m,m,m,m,m,m,m,20,m,C.T,m,m,!0,1,m,m,m,m,m),m),new T.cv(m,10,m,m),L.jj("Created by Jinesh Soni",A.cV(m,m,C.C.i(0,600),m,m,m,m,m,m,m,m,10,m,C.T,m,m,!0,1,m,m,m,m,m),m),new T.cv(m,10,m,m)],t))
 r=n.cy?1:0
 q=P.co(0,0,200,0)
 r=G.S1(new T.eG(C.nu,T.SP(H.b([new E.jh(C.v4,"CONFIRMED",n.x,n.d,m),new E.jh(C.ok.i(0,600),"ACTIVE",n.y,n.e,m),new E.jh(C.v3,"RECOVERED",n.z,n.f,m),new E.jh(C.C.i(0,500),"DECEASED",n.Q,n.r,m)],t),C.fD),m),q,r)
