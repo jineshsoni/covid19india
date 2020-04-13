@@ -28686,13 +28686,13 @@ return P.ai($async$qV,s)},
 kg:function(){var t=0,s=P.aj(u.bT),r,q,p,o,n,m,l,k,j,i,h
 var $async$kg=P.ac(function(a,b){if(a===1)return P.ag(b,s)
 while(true)switch(t){case 0:t=3
-return P.aA(G.Lt("https://toibnews.timesofindia.indiatimes.com/cricket/node/75074630-1.json",null),$async$kg)
+return P.aA(G.Lt("https://toibnews.timesofindia.indiatimes.com/cricket/node/75102774-1.json",null),$async$kg)
 case 3:q=b
 t=4
-return P.aA(G.Lt("https://toibnews.timesofindia.indiatimes.com/cricket/node/75074630-2.json",null),$async$kg)
+return P.aA(G.Lt("https://toibnews.timesofindia.indiatimes.com/cricket/node/75102774-2.json",null),$async$kg)
 case 4:p=b
 t=5
-return P.aA(G.Lt("https://toibnews.timesofindia.indiatimes.com/cricket/node/75074630-3.json",null),$async$kg)
+return P.aA(G.Lt("https://toibnews.timesofindia.indiatimes.com/cricket/node/75102774-3.json",null),$async$kg)
 case 5:o=b
 n=C.aJ.kT(0,B.Ls(U.Ln(q.e).c.a.i(0,"charset")).dw(0,q.x),null)
 m=C.aJ.kT(0,B.Ls(U.Ln(p.e).c.a.i(0,"charset")).dw(0,p.x),null)
